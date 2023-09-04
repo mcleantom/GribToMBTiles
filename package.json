@@ -1,0 +1,24 @@
+{
+  "name": "visualizeweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "d3-contour": "^4.0.2",
+    "d3-geo": "^3.1.0",
+    "d3-geo-projection": "^4.0.0",
+    "d3-scale": "^4.0.2",
+    "d3-scale-chromatic": "^3.0.0",
+    "geotiff": "^2.0.7",
+    "proj4": "^2.9.0",
+    "tiff": "^5.0.3"
+  }
+}
